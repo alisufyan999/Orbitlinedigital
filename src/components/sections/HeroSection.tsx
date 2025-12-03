@@ -42,15 +42,15 @@ export const HeroSection = () => {
               <Button variant="hero" size="xl" asChild>
                 <Link href="#cta-section">Get My Website Revenue Plan</Link>
               </Button>
-              <Button variant="hero-link" size="xl" asChild>
+              {/* <Button variant="hero-link" size="xl" asChild>
                 <Link href="#testimonial-section">See how we've done it for others →</Link>
-              </Button>
+              </Button> */}
             </div>
           </div>
 
           {/* Hero Image - Dashboard Mockup */}
           <div className="relative animate-slide-in-right">
-            <Image src="/assets/images/home/bannerside.png" className="home-banner-img" alt="Hero Image" width={800} height={700} />
+            <Image src="/assets/images/home/bannerside2.png" className="home-banner-img" alt="Hero Image" width={800} height={700} />
 
             {/* <div className="relative">
         

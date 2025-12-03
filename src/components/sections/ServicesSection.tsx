@@ -17,7 +17,7 @@ export const ServicesSection = () => {
           {/* Mockup Collage */}
           <div className="relative">
 
-            <Image src="/assets/images/home/home4.png" alt="Services Image" width={600} height={600} />
+            <Image src="/assets/images/home/home9.png" alt="Services Image" width={600} height={600} />
 
             {/* <div className="grid grid-cols-2 gap-4">
               
